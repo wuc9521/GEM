@@ -6,5 +6,3 @@
 
 原本的 run_experienments.sh 被删去了, 取而代之的是 run.ipynb. 在这份 Jupyternotebook 文件中, 我将原本的 shell 脚本拆分开来, 并删去了一小部分. 请根据 run.ipynb 中的指示运行项目.
 
-
-
