@@ -1,0 +1,9 @@
+# *.pt
+# *.txt
+# *.pyc
+# *.pdf
+# *.tar.gz
+# *.npz
+# __pycache__
+# /data/raw/cifar-100-python
+# .DS_Store
